@@ -1,2 +1,2 @@
 # HelloLoyal
-MyTeam
+This is MyTeam Project
